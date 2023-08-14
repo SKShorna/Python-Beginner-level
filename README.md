@@ -1,4 +1,4 @@
-Here I am adding some basic problem of python code
+Here I am adding Python programming for Beginner Level code
 
 To save work and save it into git files in local directory, make a directory first(if want to create a new one)
 
