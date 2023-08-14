@@ -10,14 +10,17 @@ Git workflow for beginners
 To access git into local created directory, type command in local pc's terminal and copy the url from the git website: git clone url
 
 Note: It could be chnage from time to time (Talking about command)
-or push an existing repository from the command line
-git init
-git add .
-git status
-git commit -m "First Commit"
-git remote add origin https://github.com/SKShorna/Python-Basic-Beginner.git
-git push -u origin master
-Can have a look on this video: https://www.youtube.com/watch?v=xLbmcMVtfKE (For Push Code (remote) to Github using Command Line (Terminal))
+
+
+Push an existing repository from the command line
+
+--> git init
+--> git add .
+--> git status
+--> git commit -m "First Commit"
+--> git remote add origin https://github.com/SKShorna/Python-Basic-Beginner.git
+--> git push -u origin master
+Can have a look at this video: https://www.youtube.com/watch?v=xLbmcMVtfKE (For Push Code (remote) to GitHub using Command Line (Terminal))
 
 
 
